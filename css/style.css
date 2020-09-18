@@ -79,7 +79,7 @@ p{
     transform:translate(-50%);
     min-height: 352px;
     width:calc((458/1200)*100%);
-    background:url('../img/layer.png') center;
+    background:url('../img/layer.png') no-repeat center;
 }
 
 .page-header__menu{
